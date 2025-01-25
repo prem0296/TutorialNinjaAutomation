@@ -1,0 +1,31 @@
+[INFO ] 2025-01-20 12:18:00.494 [main] RegistrationPageTest - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-20 12:18:08.636 [main] RegistrationPageTest - **************************Launching the browser*************************************
+[INFO ] 2025-01-20 12:18:19.190 [main] RegistrationPageTest - **************************closing the Browser *************************************
+[INFO ] 2025-01-20 12:24:07.686 [main] RegistrationPageTest - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-20 12:24:14.023 [main] RegistrationPageTest - **************************Launching the browser*************************************
+[INFO ] 2025-01-20 12:24:20.320 [main] RegistrationPageTest - ************ Validting the assertion ************* 
+[INFO ] 2025-01-20 12:24:22.007 [main] RegistrationPageTest - ************ Validting the assertion ************* 
+[INFO ] 2025-01-20 12:24:22.320 [main] RegistrationPageTest - **************************closing the Browser *************************************
+[INFO ] 2025-01-20 12:27:23.166 [main] RegistrationPageTest - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-20 12:27:28.817 [main] RegistrationPageTest - **************************Launching the browser*************************************
+[INFO ] 2025-01-20 12:27:41.992 [main] RegistrationPageTest - ************ Validating the assertion ************* 
+[INFO ] 2025-01-20 12:27:42.235 [main] RegistrationPageTest - ************ completed ************* 
+[INFO ] 2025-01-20 12:27:43.631 [main] RegistrationPageTest - ************ Validating the assertion ************* 
+[INFO ] 2025-01-20 12:27:43.705 [main] RegistrationPageTest - ************ completed ************* 
+[INFO ] 2025-01-20 12:27:48.583 [main] RegistrationPageTest - **************************closing the Browser *************************************
+[INFO ] 2025-01-20 12:29:54.820 [main] RegistrationPageTest - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-20 12:30:02.334 [main] RegistrationPageTest - **************************Launching the browser*************************************
+[INFO ] 2025-01-20 12:30:08.553 [main] RegistrationPageTest - ************ Validating the assertion ************* 
+[INFO ] 2025-01-20 12:30:08.803 [main] RegistrationPageTest - ************ completed ************* 
+[INFO ] 2025-01-20 12:30:09.735 [main] RegistrationPageTest - ************ Validating the assertion ************* 
+[INFO ] 2025-01-20 12:30:10.001 [main] RegistrationPageTest - ************ completed ************* 
+[INFO ] 2025-01-20 12:33:12.856 [main] RegistrationPageTest - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-20 12:33:19.083 [main] RegistrationPageTest - **************************Launching the browser*************************************
+[INFO ] 2025-01-20 12:33:26.141 [main] RegistrationPageTest - ************ Validating the assertion ************* 
+[INFO ] 2025-01-20 12:33:26.141 [main] RegistrationPageTest - ************ completed ************* 
+[INFO ] 2025-01-20 12:33:28.204 [main] RegistrationPageTest - ************ Validating the assertion ************* 
+[INFO ] 2025-01-20 12:33:28.204 [main] RegistrationPageTest - ************ completed ************* 
+[INFO ] 2025-01-20 12:34:24.987 [main] RegistrationPageTest - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-20 12:34:30.796 [main] RegistrationPageTest - **************************Launching the browser*************************************
+[ERROR] 2025-01-20 12:34:39.192 [main] RegistrationPageTest - Test Failed
+[ERROR] 2025-01-20 12:34:40.435 [main] RegistrationPageTest - Test Failed
