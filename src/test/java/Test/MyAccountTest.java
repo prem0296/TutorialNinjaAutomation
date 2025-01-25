@@ -23,16 +23,21 @@ public class MyAccountTest extends BaseClass {
 		myp.setPassword(pwd);
 		myp.clickloginButton();
 		
+		int currentRow = DataProviderClass.getCurrentTestRow(email, pwd);
 		
 		if (expected.equalsIgnoreCase("valid")) {
 			
 			myp.clicklogoutButton();
 			Assert.assertTrue(true);
-			
+			Excel.setCellData("Sheet1", currentRow, 3, "Pass");
+			Excel.setGreenColour("Sheet1", currentRow, 3); 
 		}
 		
 		else {
+			 Excel.setCellData("Sheet1", currentRow, 3, "Fail");
+		     Excel.setRedColour("Sheet1", currentRow, 3);
 			Assert.assertTrue(false);
+			
 		}
 		
 		
