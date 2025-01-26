@@ -1,48 +1,58 @@
-[INFO ] 2025-01-25 00:00:51.381 [main] TestMyAccount - **************************Browser configuration Started *************************************
-[INFO ] 2025-01-25 00:01:04.918 [main] TestMyAccount - **************************Launching the browser*************************************
-[INFO ] 2025-01-25 00:02:55.999 [main] TestMyAccount - **************************Browser configuration Started *************************************
-[INFO ] 2025-01-25 00:03:10.118 [main] TestMyAccount - **************************Launching the browser*************************************
-[INFO ] 2025-01-25 00:03:15.296 [main] TestMyAccount - **************************closing the Browser *************************************
-[INFO ] 2025-01-25 00:04:05.842 [main] TestMyAccount - **************************Browser configuration Started *************************************
-[INFO ] 2025-01-25 00:04:16.721 [main] TestMyAccount - **************************Launching the browser*************************************
-[INFO ] 2025-01-25 00:04:21.289 [main] TestMyAccount - **************************closing the Browser *************************************
-[INFO ] 2025-01-25 00:05:53.298 [main] TestMyAccount - **************************Browser configuration Started *************************************
-[INFO ] 2025-01-25 00:06:02.726 [main] TestMyAccount - **************************Launching the browser*************************************
-[INFO ] 2025-01-25 00:06:07.369 [main] TestMyAccount - **************************closing the Browser *************************************
-[INFO ] 2025-01-25 00:08:47.958 [main] TestMyAccount - **************************Browser configuration Started *************************************
-[INFO ] 2025-01-25 00:08:59.038 [main] TestMyAccount - **************************Launching the browser*************************************
-[INFO ] 2025-01-25 00:13:39.086 [main] TestMyAccount - **************************Browser configuration Started *************************************
-[INFO ] 2025-01-25 00:13:52.270 [main] TestMyAccount - **************************Launching the browser*************************************
-[INFO ] 2025-01-25 00:14:52.731 [main] TestMyAccount - **************************Browser configuration Started *************************************
-[INFO ] 2025-01-25 00:15:04.531 [main] TestMyAccount - **************************Launching the browser*************************************
-[INFO ] 2025-01-25 00:15:48.117 [main] TestMyAccount - **************************closing the Browser *************************************
-[INFO ] 2025-01-25 12:38:07.691 [main] MyAccountTest - **************************Browser configuration Started *************************************
-[INFO ] 2025-01-25 12:38:22.850 [main] MyAccountTest - **************************Launching the browser*************************************
-[INFO ] 2025-01-25 12:38:28.650 [main] MyAccountTest - **************************closing the Browser *************************************
-[INFO ] 2025-01-25 12:39:48.741 [main] MyAccountTest - **************************Browser configuration Started *************************************
-[INFO ] 2025-01-25 12:40:01.305 [main] MyAccountTest - **************************Launching the browser*************************************
-[INFO ] 2025-01-25 12:40:36.412 [main] MyAccountTest - **************************closing the Browser *************************************
-[INFO ] 2025-01-25 12:43:02.335 [main] MyAccountTest - **************************Browser configuration Started *************************************
-[INFO ] 2025-01-25 12:43:14.941 [main] MyAccountTest - **************************Launching the browser*************************************
-[INFO ] 2025-01-25 12:43:52.895 [main] MyAccountTest - **************************closing the Browser *************************************
-[INFO ] 2025-01-25 18:41:58.602 [main] MyAccountTest - **************************Browser configuration Started *************************************
-[INFO ] 2025-01-25 18:42:10.155 [main] MyAccountTest - **************************Launching the browser*************************************
-[INFO ] 2025-01-25 18:42:33.145 [main] MyAccountTest - **************************closing the Browser *************************************
-[INFO ] 2025-01-25 18:50:03.144 [main] MyAccountTest - **************************Browser configuration Started *************************************
-[INFO ] 2025-01-25 18:50:13.244 [main] MyAccountTest - **************************Launching the browser*************************************
-[INFO ] 2025-01-25 18:50:43.381 [main] MyAccountTest - **************************closing the Browser *************************************
-[INFO ] 2025-01-25 18:52:54.879 [main] MyAccountTest - **************************Browser configuration Started *************************************
-[INFO ] 2025-01-25 18:53:04.716 [main] MyAccountTest - **************************Launching the browser*************************************
-[INFO ] 2025-01-25 18:53:16.104 [main] MyAccountTest - **************************closing the Browser *************************************
-[INFO ] 2025-01-25 18:55:45.205 [main] MyAccountTest - **************************Browser configuration Started *************************************
-[INFO ] 2025-01-25 18:55:54.068 [main] MyAccountTest - **************************Launching the browser*************************************
-[INFO ] 2025-01-25 18:56:04.885 [main] MyAccountTest - **************************closing the Browser *************************************
-[INFO ] 2025-01-25 18:57:12.028 [main] MyAccountTest - **************************Browser configuration Started *************************************
-[INFO ] 2025-01-25 18:57:21.853 [main] MyAccountTest - **************************Launching the browser*************************************
-[INFO ] 2025-01-25 18:57:33.615 [main] MyAccountTest - **************************closing the Browser *************************************
-[INFO ] 2025-01-25 19:00:15.163 [main] MyAccountTest - **************************Browser configuration Started *************************************
-[INFO ] 2025-01-25 19:00:25.285 [main] MyAccountTest - **************************Launching the browser*************************************
-[INFO ] 2025-01-25 19:00:54.594 [main] MyAccountTest - **************************closing the Browser *************************************
-[INFO ] 2025-01-25 19:01:39.202 [main] MyAccountTest - **************************Browser configuration Started *************************************
-[INFO ] 2025-01-25 19:01:49.515 [main] MyAccountTest - **************************Launching the browser*************************************
-[INFO ] 2025-01-25 19:02:18.552 [main] MyAccountTest - **************************closing the Browser *************************************
+[INFO ] 2025-01-26 11:13:24.439 [main] RegistrationAccount - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-26 11:13:39.069 [main] RegistrationAccount - **************************Launching the browser*************************************
+[INFO ] 2025-01-26 11:14:18.245 [main] RegistrationAccount - **************************closing the Browser *************************************
+[INFO ] 2025-01-26 11:16:05.849 [main] RegistrationAccount - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-26 11:16:21.904 [main] RegistrationAccount - **************************Launching the browser*************************************
+[INFO ] 2025-01-26 11:17:05.730 [main] RegistrationAccount - **************************closing the Browser *************************************
+[INFO ] 2025-01-26 11:28:32.071 [main] RegistrationAccount - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-26 11:28:40.477 [main] RegistrationAccount - **************************Launching the browser*************************************
+[INFO ] 2025-01-26 11:29:18.171 [main] RegistrationAccount - **************************closing the Browser *************************************
+[INFO ] 2025-01-26 11:31:31.216 [main] RegistrationAccount - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-26 11:31:39.968 [main] RegistrationAccount - **************************Launching the browser*************************************
+[INFO ] 2025-01-26 11:33:17.946 [main] RegistrationAccount - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-26 11:33:26.684 [main] RegistrationAccount - **************************Launching the browser*************************************
+[INFO ] 2025-01-26 11:37:24.461 [main] RegistrationAccount - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-26 11:37:34.841 [main] RegistrationAccount - **************************Launching the browser*************************************
+[INFO ] 2025-01-26 11:38:36.542 [main] RegistrationAccount - **************************closing the Browser *************************************
+[INFO ] 2025-01-26 11:41:26.799 [main] RegistrationPageTest - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-26 11:41:36.230 [main] RegistrationPageTest - **************************Launching the browser*************************************
+[INFO ] 2025-01-26 11:42:17.507 [main] RegistrationPageTest - **************************closing the Browser *************************************
+[INFO ] 2025-01-26 11:43:17.811 [main] RegistrationPageTest - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-26 11:43:26.462 [main] RegistrationPageTest - **************************Launching the browser*************************************
+[INFO ] 2025-01-26 11:44:12.598 [main] RegistrationPageTest - **************************closing the Browser *************************************
+[INFO ] 2025-01-26 11:46:04.704 [main] RegistrationPageTest - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-26 11:46:13.111 [main] RegistrationPageTest - **************************Launching the browser*************************************
+[INFO ] 2025-01-26 11:46:58.043 [main] RegistrationPageTest - **************************closing the Browser *************************************
+[INFO ] 2025-01-26 11:55:09.686 [main] RegistrationPageTest - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-26 11:55:18.450 [main] RegistrationPageTest - **************************Launching the browser*************************************
+[INFO ] 2025-01-26 11:56:01.068 [main] RegistrationPageTest - **************************closing the Browser *************************************
+[INFO ] 2025-01-26 12:03:40.216 [main] RegistrationPageTest - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-26 12:03:48.670 [main] RegistrationPageTest - **************************Launching the browser*************************************
+[INFO ] 2025-01-26 12:04:28.687 [main] RegistrationPageTest - **************************closing the Browser *************************************
+[INFO ] 2025-01-26 12:09:35.157 [main] RegistrationPageTest - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-26 12:09:45.313 [main] RegistrationPageTest - **************************Launching the browser*************************************
+[INFO ] 2025-01-26 12:10:31.008 [main] RegistrationPageTest - **************************closing the Browser *************************************
+[INFO ] 2025-01-26 12:14:17.107 [main] RegistrationPageTest - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-26 12:14:27.654 [main] RegistrationPageTest - **************************Launching the browser*************************************
+[INFO ] 2025-01-26 12:15:07.535 [main] RegistrationPageTest - **************************closing the Browser *************************************
+[INFO ] 2025-01-26 12:33:40.355 [main] MyAccountTest - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-26 12:33:52.162 [main] MyAccountTest - **************************Launching the browser*************************************
+[INFO ] 2025-01-26 12:33:57.106 [main] MyAccountTest - **************************closing the Browser *************************************
+[INFO ] 2025-01-26 12:35:12.087 [main] MyAccountTest - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-26 12:35:22.819 [main] MyAccountTest - **************************Launching the browser*************************************
+[INFO ] 2025-01-26 12:35:28.054 [main] MyAccountTest - **************************closing the Browser *************************************
+[INFO ] 2025-01-26 12:36:43.287 [main] MyAccountTest - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-26 12:36:56.386 [main] MyAccountTest - **************************Launching the browser*************************************
+[INFO ] 2025-01-26 12:37:36.143 [main] MyAccountTest - **************************closing the Browser *************************************
+[INFO ] 2025-01-26 12:41:28.144 [main] MyAccountTest - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-26 12:41:39.323 [main] MyAccountTest - **************************Launching the browser*************************************
+[INFO ] 2025-01-26 12:42:15.380 [main] MyAccountTest - **************************closing the Browser *************************************
+[INFO ] 2025-01-26 12:43:11.483 [main] MyAccountTest - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-26 12:43:23.780 [main] MyAccountTest - **************************Launching the browser*************************************
+[INFO ] 2025-01-26 12:43:37.650 [main] MyAccountTest - **************************closing the Browser *************************************
+[INFO ] 2025-01-26 12:59:47.170 [main] RegistrationPageTest - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-26 12:59:59.282 [main] RegistrationPageTest - **************************Launching the browser*************************************
+[INFO ] 2025-01-26 13:00:46.992 [main] RegistrationPageTest - **************************closing the Browser *************************************
+[INFO ] 2025-01-26 13:03:53.417 [main] RegistrationPageTest - **************************Browser configuration Started *************************************
+[INFO ] 2025-01-26 13:04:04.099 [main] RegistrationPageTest - **************************Launching the browser*************************************
+[INFO ] 2025-01-26 13:04:49.460 [main] RegistrationPageTest - **************************closing the Browser *************************************

@@ -6,7 +6,7 @@
       <class name="Test.MyAccountTest">
         <methods>
           <include name="setup"/>
-          <include name="validationOfMyAccount" invocation-numbers="1 2"/>
+          <include name="validationOfMyAccount"/>
           <include name="tearDown"/>
         </methods>
       </class> <!-- Test.MyAccountTest -->

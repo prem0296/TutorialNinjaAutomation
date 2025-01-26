@@ -34,6 +34,7 @@ public class MyAccountTest extends BaseClass {
 		}
 		
 		else {
+			
 			 Excel.setCellData("Sheet1", currentRow, 3, "Fail");
 		     Excel.setRedColour("Sheet1", currentRow, 3);
 			Assert.assertTrue(false);

@@ -26,7 +26,8 @@ public class RegistrationAccount extends BaseClass {
 		ra.clickPolicyCheckBox();
 		ra.clickContinueButton();
 
-		Assert.assertEquals(ra.getMessage(), "Your Account Has Been Created!");
+		//Assert.assertEquals(ra.getMessage(), "Your Account Has Been Created!");
+		Assert.assertEquals(ra.getMessage(), "Your Account Has Been Created");
 
 	}
 

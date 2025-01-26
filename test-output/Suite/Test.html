@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>1/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Sat Jan 25 00:03:14 IST 2025</td>
+<td>Started on:</td><td>Sun Jan 26 13:04:08 IST 2025</td>
 </tr>
-<tr><td>Total time:</td><td>0 seconds (366 ms)</td>
+<tr><td>Total time:</td><td>16 seconds (16019 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -75,17 +75,26 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='Test.TestMyAccount.verifyMyAccount()'><b>verifyMyAccount</b><br>Test class: Test.TestMyAccount</td>
-<td><div><pre>org.testng.TestNGException: 
-Method private void Test.TestMyAccount.verifyMyAccount(java.lang.String,java.lang.String,java.lang.String) requires a @DataProvider named : logintestdata
-... Removed 22 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace719146276", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace719146276'><pre>org.testng.TestNGException: 
-Method private void Test.TestMyAccount.verifyMyAccount(java.lang.String,java.lang.String,java.lang.String) requires a @DataProvider named : logintestdata
-	at org.testng.internal.Parameters.findDataProvider(Parameters.java:513)
-	at org.testng.internal.Parameters.handleParameters(Parameters.java:691)
-	at org.testng.internal.ParameterHandler.handleParameters(ParameterHandler.java:49)
-	at org.testng.internal.ParameterHandler.createParameters(ParameterHandler.java:37)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:924)
+<td title='Test.RegistrationAccount.registrationPageValidation()'><b>registrationPageValidation</b><br>Test class: Test.RegistrationAccount</td>
+<td><div><pre>java.lang.AssertionError: expected [Your Account Has Been Created] but found [Your Account Has Been Created!]
+	at Test.RegistrationAccount.registrationPageValidation(RegistrationAccount.java:30)
+... Removed 31 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1423978346", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1423978346'><pre>java.lang.AssertionError: expected [Your Account Has Been Created] but found [Your Account Has Been Created!]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at org.testng.Assert.assertEquals(Assert.java:463)
+	at Test.RegistrationAccount.registrationPageValidation(RegistrationAccount.java:30)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
 	at org.testng.TestRunner.privateRun(TestRunner.java:648)
@@ -104,8 +113,21 @@ Method private void Test.TestMyAccount.verifyMyAccount(java.lang.String,java.lan
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 </pre></div></td>
-<td>0</td>
-<td>Test.TestMyAccount@6d167f58</td></tr>
+<td>9</td>
+<td>Test.RegistrationAccount@1fb669c3</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='Test.RegistrationPageTest.registrationValidation()'><b>registrationValidation</b><br>Test class: Test.RegistrationPageTest</td>
+<td></td>
+<td>2</td>
+<td>Test.RegistrationPageTest@1339e7aa</td></tr>
 </table><p>
 </body>
 </html>
